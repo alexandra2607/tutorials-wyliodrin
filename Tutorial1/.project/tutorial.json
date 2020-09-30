@@ -1,9 +1,7 @@
 {
-	"Tutorial1": {
-        "title": "Tutorials",
-        "board": "ESP8266",
-        "type": "wyapp",
-        "language": "micropython",
-        "description": "Description first tutorial!!"      
-	}
+	"title": "Tutorials",
+	"board": "ESP8266",
+	"type": "wyapp",
+	"language": "micropython",
+	"description": "Description first tutorial!!"      
 }
