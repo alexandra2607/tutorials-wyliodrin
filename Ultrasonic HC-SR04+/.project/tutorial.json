@@ -2,8 +2,8 @@
 	 
         "title": "Ultrasonic",
         "board": "altceva",
-        "type": "esp",
+        "type": "wyapp",
         "language": "python",
-        "description": "Descriptionultrasonic tutorial!"      
+        "description": "Description ultrasonic tutorial!"      
 	
 }

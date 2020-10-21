@@ -2,6 +2,6 @@
 	"title": "Blink an LED",
 	"board": "ESP8266",
 	"type": "wyapp",
-	"language": "micropython",
+	"language": "python",
 	"description": "Description first tutorial!!"      
 }
