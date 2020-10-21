@@ -2,6 +2,6 @@
 	"title": "Buzzer",
 	"board": "ESP8266",
 	"type": "wyapp",
-	"language": "micropython",
+	"language": "python",
 	"description": "Description buzzer tutorial!!"      
 }

@@ -3,7 +3,7 @@
         "title": "RGB",
         "board": "ESP8266",
         "type": "esp",
-        "language": "micropython",
+        "language": "python",
         "description": "Description RGB tutorial!!"      
 
 }
