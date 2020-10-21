@@ -1,5 +1,5 @@
 {
-	"title": "Tutorials1",
+	"title": "Blink an LED",
 	"board": "ESP8266",
 	"type": "wyapp",
 	"language": "micropython",

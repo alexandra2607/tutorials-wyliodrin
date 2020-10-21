@@ -1,9 +1,0 @@
-{
-
-        "title": "Tutorials2",
-        "board": "ESP8266",
-        "type": "esp",
-        "language": "micropython",
-        "description": "Description second tutorial!!"      
-
-}

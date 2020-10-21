@@ -1,0 +1,7 @@
+{
+	"title": "Digital Inputs",
+	"board": "ESP8266",
+	"type": "wyapp",
+	"language": "micropython",
+	"description": "Description digital Inputs tutorial!!"      
+}

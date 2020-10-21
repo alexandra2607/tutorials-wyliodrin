@@ -1,0 +1,9 @@
+{
+
+        "title": "RGB",
+        "board": "ESP8266",
+        "type": "esp",
+        "language": "micropython",
+        "description": "Description RGB tutorial!!"      
+
+}
