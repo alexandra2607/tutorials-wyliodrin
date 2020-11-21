@@ -1,7 +1,7 @@
 {
 	"title": "DHT11",
 	"board": "ESP8266",
-	"type": "wyapp",
+	"type": "mp",
 	"language": "micropython",
 	"description": "Description dht tutorial!!"      
 }
